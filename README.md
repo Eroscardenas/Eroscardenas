@@ -1,7 +1,7 @@
-# 👨‍💻 Esaú Alfredo Cárdenas Medina
+# 👨‍💻 Esaú A, Cárdenas Medina
 
 🚀 Full-Stack Developer | Sistemas Empresariales en Producción
-📍 Zapopan, Jalisco, México
+📍 Jalisco, México
 
 ---
 
