@@ -1,15 +1,30 @@
-# 👨‍💻 Esaú A. Cárdenas Medina
+<h1 align="center">👨‍💻 Esaú A. Cárdenas Medina</h1>
 
-🚀 Full-Stack Developer | Sistemas Empresariales en Producción
-📍 Jalisco, México
+<p align="center">
+  🚀 Full-Stack Developer | Sistemas Empresariales en Producción  
+</p>
+
+<p align="center">
+  📍 Jalisco, México
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-5C2D91?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
 ## 🧠 Sobre mí
 
-Desarrollador Full-Stack con experiencia en construcción de sistemas empresariales en producción, enfocados en logística, inventarios y automatización de procesos.
+Desarrollador Full-Stack con experiencia en sistemas empresariales en producción, enfocados en logística, inventarios y automatización de procesos.
 
-Especializado en el desarrollo de soluciones completas (web + mobile + backend) que optimizan operaciones, control de stock y toma de decisiones en entornos reales.
+Construyo soluciones completas (web + mobile + backend) que optimizan operaciones reales, control de stock y toma de decisiones.
 
 ---
 
@@ -19,93 +34,78 @@ Especializado en el desarrollo de soluciones completas (web + mobile + backend) 
 
 📅 Agosto 2025 – Actualidad
 
-* Desarrollo de sistema de entregas (web + app móvil)
-* Integración de inventarios en tiempo real
-* Generación de reportes operativos (PDF)
-* Control de rutas, choferes y pedidos
-* Diseño de arquitectura con Next.js, Flutter, Supabase y Firebase
+* Sistema de entregas (web + app móvil)
+* Inventario en tiempo real
+* Reportes operativos (PDF)
+* Control de rutas y pedidos
+* Arquitectura con Next.js, Flutter, Supabase y Firebase
 
 ---
 
-## 🚀 Sistemas desarrollados (Producción real)
+## 🚀 Sistemas en Producción
 
 ### 🚚 Sistema de Entregas
 
-* App móvil para choferes (Flutter)
+* App móvil (Flutter)
 * Panel administrativo (Next.js)
-* Control de rutas, pedidos y asignaciones
-* Validación de stock en tiempo real
-* Generación de PDFs operativos
+* Control de rutas y pedidos
+* Validación de stock
+* PDFs operativos
 
-🔒 Código privado por confidencialidad
+🔒 Código privado
 
 ---
 
 ### 🧊 Sistema de Inventarios
 
-* Control de stock en tiempo real
-* Producción de hielo (bolsas, barras, conversiones)
+* Stock en tiempo real
+* Producción (bolsas / barras)
 * Movimientos: entradas, salidas, mermas
-* Integración con sistema de entregas
 
-🔒 Código privado por confidencialidad
+🔒 Código privado
 
 ---
 
 ### 📦 Sistema de Requisiciones
 
-* Flujo empresarial completo:
-  pendiente → aprobado → surtido → cerrado
+* Flujo completo empresarial
 * Kardex automático
-* Generación de reportes PDF
+* Reportes PDF
 
-🔒 Código privado por confidencialidad
-
----
-
-### 📊 Sistema de Gestión de Actividades (Arcosa)
-
-* Dashboard con semáforo de cumplimiento
-* Vista Kanban + tabla
-* Monitoreo de tiempos y productividad
-
-🔒 Código privado por confidencialidad
+🔒 Código privado
 
 ---
 
-## 🏗️ Arquitectura de Sistemas
+### 📊 Sistema de Actividades
 
-* Web: Next.js (Admin Panel)
+* Dashboard con semáforo
+* Kanban + tabla
+* Monitoreo de tiempos
+
+🔒 Código privado
+
+---
+
+## 🏗️ Arquitectura
+
+* Web: Next.js
 * Mobile: Flutter
 * Backend: Supabase (PostgreSQL)
 * Realtime: Firebase
 * Infraestructura: Docker
 
-Sistemas diseñados para operar en entornos reales con múltiples usuarios y datos en tiempo real.
-
 ---
 
 ## 📈 Impacto
 
-* Optimización de procesos logísticos
+* Optimización logística
 * Control de inventario en tiempo real
-* Reducción de errores operativos
-* Mejora en tiempos de entrega
-* Automatización de flujos empresariales
+* Reducción de errores
+* Automatización de procesos
 
 ---
 
-## 🧠 Proyectos Técnicos Destacados
-
-* Sistema de recomendación con KNN
-* Análisis de malware (URSA - HORABOT)
-* Automatización IoT (DOMONATURA)
-* Análisis de datos con R y SQL
-* Implementación de Docker + Kubernetes
-
----
-
-## 🛠️ Stack Tecnológico
+## 🛠️ Stack
 
 ### Frontend
 
@@ -114,10 +114,6 @@ Sistemas diseñados para operar en entornos reales con múltiples usuarios y dat
 * TypeScript
 * Tailwind CSS
 
-### Mobile
-
-* Flutter
-
 ### Backend & DB
 
 * Supabase
@@ -125,34 +121,41 @@ Sistemas diseñados para operar en entornos reales con múltiples usuarios y dat
 * PostgreSQL
 * MySQL
 
-### Programming Languages
+### Mobile
+
+* Flutter
+
+### Lenguajes
 
 * JavaScript / TypeScript ⭐
 * Python
 * C / C++
-* Assembly (x86)
+* Assembly
 
-### DevOps & Tools
+### DevOps
 
 * Docker
 * Kubernetes
-* Git / Linux
+* Linux
 
-### Data & ML
+---
 
-* Machine Learning (KNN, Perceptrón)
-* R
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eroscardenas&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eroscardenas&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 📩 Contacto
 
-📧 Email: [esaucarmed@gmail.com](mailto:esaucarmed@gmail.com)
-🌐 GitHub: https://github.com/Eroscardenas
+📧 [esaucarmed@gmail.com](mailto:esaucarmed@gmail.com)
+🌐 https://github.com/Eroscardenas
 
 ---
 
 ## ⚡ Nota
 
-La mayoría de los sistemas están en repositorios privados por motivos empresariales.
-Este perfil representa la arquitectura, experiencia y desarrollo de soluciones reales en producción.
+Los sistemas mostrados están en producción y alojados en repositorios privados por confidencialidad.
