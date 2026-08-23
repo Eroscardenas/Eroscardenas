@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,3B0A0A,5B0E2D&height=240&section=header&text=Racoon%20Dev.&fontSize=52&fontColor=E6E6E6&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%C2%B7%20Data%20%C2%B7%20Machine%20Learning&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,3B0A0A,5B0E2D&height=240&section=header&text=RAC%20NUIT.&fontSize=52&fontColor=E6E6E6&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%C2%B7%20Data%20%C2%B7%20Machine%20Learning&descAlignY=60&descSize=18"/>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-<h1 align="center">RACNUIT</h1>
+<h1 align="center">ECARDENAAS</h1>
 
 <p align="center">
   Software Engineer · Full-Stack · Data · Machine Learning
