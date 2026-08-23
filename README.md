@@ -1,195 +1,194 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=240&section=header&text=Software%20Engineer&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Systems%20in%20Production&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,3B0A0A,5B0E2D&height=240&section=header&text=Eroscardenas&fontSize=52&fontColor=E6E6E6&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%C2%B7%20Data%20%C2%B7%20Machine%20Learning&descAlignY=60&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=9D4EDD&center=true&vCenter=true&width=800&lines=System.out.println(%22Building+real+enterprise+systems...%22);;Web+%2B+Mobile+%2B+Backend;Inventory+%26+Logistics+Automation;Full-Stack+Developer+in+Production"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2600&pause=800&color=9B1C31&center=true&vCenter=true&width=850&lines=Building+systems+that+actually+run.;Full-Stack+%7C+Data+%7C+Machine+Learning;Web+%C2%B7+Mobile+%C2%B7+Backend+%C2%B7+Analytics;Python+%C2%B7+TypeScript+%C2%B7+Flutter+%C2%B7+SQL"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eroscardenas&label=Profile%20views&color=7B2CBF&style=for-the-badge"/>
-</p>
-
----
-
-<h1 align="center">👨‍💻 Esaú A. Cárdenas Medina</h1>
-
-<p align="center">
-  🚀 Full-Stack Developer | Sistemas Empresariales en Producción <br/>
-  📍 Jalisco, México
+  <img src="https://komarev.com/ghpvc/?username=Eroscardenas&label=PROFILE%20VIEWS&color=5B0E2D&style=flat-square"/>
 </p>
 
 ---
 
+<h1 align="center">Esaú A. Cárdenas Medina</h1>
+
 <p align="center">
+Software Engineer · Full-Stack Developer · Data & Machine Learning
+</p>
+
+<p align="center">
+Jalisco, México
+</p>
+
+---
+
+## About
+
+I build software systems end to end: web applications, mobile apps, backend services, data workflows and machine learning projects.
+
+My work ranges from production systems for logistics, inventory and business operations to data analysis and recommendation/prediction models.
+
+I like projects where software engineering and data meet.
+
+---
+
+## Core Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=9B1C31"/>
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=9B1C31"/>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=9B1C31"/>
   <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-7B2CBF?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-5A189A?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-9D4EDD?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-3C096C?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-240046?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-5A189A?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter&logoColor=9B1C31"/>
+  <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=9B1C31"/>
+  <img src="https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=9B1C31"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=9B1C31"/>
+  <img src="https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=9B1C31"/>
+  <img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=9B1C31"/>
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=9B1C31"/>
 </p>
 
 ---
 
-## ⚙️ Currently Working On
+## What I Build
 
-* 🚚 Sistema de entregas en producción (Flutter + Next.js)
-* 🧊 Integración de inventario en tiempo real
-* 📊 Optimización de procesos logísticos
-* ⚡ Automatización de flujos empresariales
+### Software Engineering
 
----
+- Full-stack web applications
+- Mobile applications
+- REST APIs and backend services
+- Authentication and role-based systems
+- Inventory and logistics systems
+- Reporting and PDF generation
+- Business workflow automation
 
-## 🧠 Sobre mí
+### Data & Machine Learning
 
-Desarrollador Full-Stack enfocado en construcción de sistemas empresariales en producción.
-
-Especializado en soluciones completas (web + mobile + backend) para logística, inventarios y automatización de procesos.
-
----
-
-## 🏢 Experiencia Profesional
-
-### 🧊 Global Ice de México — Full-Stack Developer
-
-📅 Agosto 2025 – Actualidad
-
-* Desarrollo de sistema completo de entregas
-* Integración de inventarios en tiempo real
-* Generación de reportes PDF
-* Control de rutas y pedidos
-* Arquitectura con Next.js, Flutter, Supabase y Firebase
+- Exploratory Data Analysis
+- Data cleaning and feature engineering
+- Predictive modeling
+- Classification models
+- Recommendation systems
+- Model evaluation
+- Flask model deployment
+- Pandas / NumPy / Scikit-learn workflows
 
 ---
 
-## 🚀 Sistemas en Producción
+## Selected Projects
 
-### 🚚 Sistema de Entregas
+### Customer Churn Analysis
 
-* App móvil (Flutter)
-* Panel administrativo (Next.js)
-* Control de rutas
-* Validación de stock
-* Generación de PDFs
+End-to-end churn analysis and prediction project using Python and machine learning.
 
-🔒 Código privado
+- Exploratory Data Analysis
+- Logistic Regression
+- Random Forest
+- Gradient Boosting
+- ROC-AUC and threshold analysis
+- Flask prediction application
 
----
-
-### 🧊 Sistema de Inventarios
-
-* Stock en tiempo real
-* Producción de hielo
-* Movimientos: entradas, salidas, mermas
-
-🔒 Código privado
+[View repository](https://github.com/Eroscardenas/customer-churn-analysis)
 
 ---
 
-### 📦 Sistema de Requisiciones
+### SkinCare Recommendation System
 
-* Flujo completo empresarial
-* Kardex automático
-* Reportes PDF
+Content-based recommendation system that compares cosmetic products using their ingredient profiles.
 
-🔒 Código privado
+- TF-IDF
+- K-Nearest Neighbors
+- Cosine Similarity
+- Skin type and category filters
+- Flask web application
+- Live deployment
 
----
+[View repository](https://github.com/Eroscardenas/skincare-recommendation-system)
 
-### 📊 Sistema de Actividades
-
-* Dashboard con semáforo
-* Kanban + tabla
-* Monitoreo de tiempos
-
-🔒 Código privado
+[Live Demo](https://skincare-recommendation-system-sy5f.onrender.com)
 
 ---
 
-## 🏗️ Arquitectura
+### Production Systems
 
-* Web: Next.js
-* Mobile: Flutter
-* Backend: Supabase
-* Realtime: Firebase
-* Infraestructura: Docker
+I have also developed production systems focused on:
 
----
+- Delivery management
+- Inventory control
+- Production tracking
+- Route management
+- Requisitions
+- Real-time stock
+- Business reporting
 
-## 📊 Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eroscardenas&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eroscardenas&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eroscardenas&theme=tokyonight&hide_border=true"/>
-</p>
+Some production repositories remain private due to confidentiality.
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eroscardenas&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Eroscardenas/Eroscardenas/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-## 🛠️ Stack
-
-### Frontend
-
-* Next.js
-* React
-* TypeScript
-* Tailwind CSS
-
-### Mobile
-
-* Flutter
-
-### Backend & DB
-
-* Supabase
-* Firebase
-* PostgreSQL
-* MySQL
+## Technologies
 
 ### Languages
 
-* JavaScript / TypeScript ⭐
-* Python
-* C / C++
-* Assembly
+`Python` `TypeScript` `JavaScript` `SQL` `C` `C++`
 
-### DevOps
+### Frontend
 
-* Docker
-* Kubernetes
-* Linux
+`Next.js` `React` `Tailwind CSS` `HTML` `CSS`
+
+### Mobile
+
+`Flutter` `Dart`
+
+### Data & ML
+
+`Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Jupyter`
+
+### Backend & Databases
+
+`Flask` `Supabase` `Firebase` `PostgreSQL` `MySQL`
+
+### Infrastructure
+
+`Docker` `Linux` `Git` `GitHub` `Render` `Vercel`
 
 ---
 
-## 📩 Contacto
+## GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Eroscardenas&show_icons=true&theme=dark&hide_border=true&title_color=9B1C31&icon_color=9B1C31&text_color=B8B8B8&bg_color=0D0D0D"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eroscardenas&layout=compact&theme=dark&hide_border=true&title_color=9B1C31&text_color=B8B8B8&bg_color=0D0D0D"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eroscardenas&theme=dark&hide_border=true&background=0D0D0D&ring=9B1C31&fire=9B1C31&currStreakLabel=9B1C31"/>
+</p>
+
+---
+
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eroscardenas&bg_color=0D0D0D&color=B8B8B8&line=9B1C31&point=5B0E2D&area=true&hide_border=true"/>
+</p>
+
+---
+
+## Contact
 
 📧 [esaucarmed@gmail.com](mailto:esaucarmed@gmail.com)
-🌐 https://github.com/Eroscardenas
+
+GitHub: [@Eroscardenas](https://github.com/Eroscardenas)
 
 ---
 
-## ⚡ Nota
+<p align="center">
+  <i>Software · Data · Machine Learning</i>
+</p>
 
-Sistemas en producción con repositorios privados por confidencialidad.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5B0E2D,3B0A0A,0D0D0D&height=120&section=footer"/>
+</p>
