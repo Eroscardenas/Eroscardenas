@@ -12,14 +12,14 @@
 
 ---
 
-<h1 align="center">Esaú A. Cárdenas Medina</h1>
+<h1 align="center">Racoon Dev. </h1>
 
 <p align="center">
 Software Engineer · Full-Stack Developer · Data & Machine Learning
 </p>
 
 <p align="center">
-Jalisco, México
+México
 </p>
 
 ---
